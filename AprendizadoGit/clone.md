@@ -1,0 +1,2 @@
+o clone é um dos primeiros comandos utilizados, quando utilizado ele baixa um repositório remoto na sua maquina.
+depois não pode esquecer de usar add para (staging area) antes do [[commit]] e [[push]]. apenas usar o clone não garante nada. Clique para ver sua [[sintaxe]].

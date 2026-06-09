@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1780766154385,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1780766187223,
+          "path": "As tres leis de plim.md",
+          "title": "1"
+        },
+        {
+          "type": "file",
+          "ctime": 1780766205294,
+          "path": "esse aki é um link.md",
+          "title": "2"
+        }
+      ],
+      "title": "blom"
+    },
+    {
+      "type": "file",
+      "ctime": 1780766222137,
+      "path": "essa aki eu ainda n criei.md",
+      "title": "3"
+    }
+  ]
+}
